@@ -12,7 +12,7 @@ to it, then it should save and still be there when refreshing the page.
 
 #### Screenshot
 
-![dayplannerss]"dayplannerss"
+![dayplannerss]"dayplannerss.JPG"
 
 ##### Links
 
